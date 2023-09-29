@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ch1lleT
 - 👀 I’m interested in C++ language
-- 🌱 I’m currently learning SFML (C++) for making collision simulation program
-- 📫 How to reach me ...
+- 🌱 
+- 📫 
   
 
 <!---
